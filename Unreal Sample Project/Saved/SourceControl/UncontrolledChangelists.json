@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/InfinityBladeGrassLands/Maps/ElvenRuins_BuiltData.uasset",
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
 				"/Users/Nico/Desktop/UNIR/Unreal Sample Project/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/Nico/Desktop/UNIR/Unreal Sample Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
 			]
